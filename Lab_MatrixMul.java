@@ -1,4 +1,5 @@
 // 64050001 นางสาวกชนิกา แย้มศรวล
+// q1.6 ans 3
 import java.util.Arrays;
 
 public class Lab_MatrixMul{
