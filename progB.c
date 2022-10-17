@@ -1,5 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main(){
-        printf("%d\n",90);
+        printf("%d\n",30);
 }
